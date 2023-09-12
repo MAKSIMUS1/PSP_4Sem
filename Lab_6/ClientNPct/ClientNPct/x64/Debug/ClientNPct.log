@@ -1,0 +1,4 @@
+﻿  ClientNPct.cpp
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_6\ClientNPct\ClientNPct\ClientNPct.cpp(14,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_6\ClientNPct\ClientNPct\ClientNPct.cpp(17,12): warning C4101: hPipe: неиспользованная локальная переменная
+  ClientNPct.vcxproj -> D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_6\ClientNPct\x64\Debug\ClientNPct.exe

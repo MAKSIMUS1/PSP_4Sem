@@ -1,0 +1,4 @@
+﻿  ClientU.cpp
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_3\ClientU\ClientU\ClientU.cpp(102): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_3\ClientU\ClientU\ClientU.cpp(88,8): warning C4101: ibuf: неиспользованная локальная переменная
+  ClientU.vcxproj -> D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_3\ClientU\x64\Debug\ClientU.exe

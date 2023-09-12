@@ -1,0 +1,4 @@
+﻿  ServerT.cpp
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_2\ServerT\ServerT\ServerT.cpp(112): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_2\ServerT\ServerT\ServerT.cpp(105,5): warning C4101: obuf: неиспользованная локальная переменная
+  ServerT.vcxproj -> D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_2\ServerT\x64\Debug\ServerT.exe

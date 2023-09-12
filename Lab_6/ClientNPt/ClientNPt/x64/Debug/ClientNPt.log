@@ -1,0 +1,3 @@
+﻿  ClientNPt.cpp
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_6\ClientNPt\ClientNPt\ClientNPt.cpp(14,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ClientNPt.vcxproj -> D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_6\ClientNPt\x64\Debug\ClientNPt.exe

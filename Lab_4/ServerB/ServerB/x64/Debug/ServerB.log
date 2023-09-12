@@ -1,0 +1,7 @@
+﻿  ServerB.cpp
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_4\ServerB\ServerB\ServerB.cpp(42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_4\ServerB\ServerB\ServerB.cpp(42,72): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_4\ServerB\ServerB\ServerB.cpp(73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_4\ServerB\ServerB\ServerB.cpp(138,45): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_4\ServerB\ServerB\ServerB.cpp(141,43): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+  ServerB.vcxproj -> D:\BSTU\Kurs_2_2\PSP(Shiman)\Lab_4\ServerB\x64\Debug\ServerB.exe
